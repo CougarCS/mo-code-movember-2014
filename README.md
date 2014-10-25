@@ -70,12 +70,12 @@
   tests, negative tests, data driven, test-first: the Invigilator does them
   all.
   
-- The Bicycle Repair Man: patches to open-source code
+- The Bicycle Repair Man: patches to FOSS code.
 
-  The Bicycle Repair Man is an open-source hero that sends well-tested patches
-  to open-source projects. These projects can even be ones that are
+  The Bicycle Repair Man is an FOSS hero that sends well-tested patches
+  to FOSS projects. These projects can even be ones that are
 
-- The Community Leader: greases the cogs of open-source
+- The Community Leader: greases the cogs of FOSS.
 
   The Community Leader encourages others to improve their code, suggests other
   ways to program, provides support to new developers and users, etc.
