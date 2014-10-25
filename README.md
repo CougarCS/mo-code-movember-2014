@@ -90,3 +90,10 @@
 
   The Polyglot doesn't care which language they are using as long as it gets
   the job done.
+
+## Projects
+
+- @toolboc made [Kinect4NES](https://github.com/toolboc/Kinect4NES). It's on
+  [Hack-a-day](http://hackaday.com/2014/10/25/using-kinect-to-play-super-mario-bros-3-on-nes-ensures-quick-death/)!
+
+  ![Kinect4NES](https://hackadaycom.files.wordpress.com/2014/10/kinect4nes.png?w=580&h=340)
