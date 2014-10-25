@@ -3,6 +3,22 @@
 - Overview: <http://pjdecarlo.com/2014/10/mo-code-movember-a-month-of-code-happening-in-houston.html>
 - Facebook event: <https://www.facebook.com/events/1534577913444543/>
 
+# Calendar of events
+
+| Dates | Name | Location | Description |
+| ----- | ---- | -------- | ----------- |
+| October 11 to December 12 | International Women’s Hackathon | everywhere | http://iwhphx2014.challengepost.com/ |
+| November 7                | University of Houston Mo’Code Movember Kickoff | UH | A Github hosted month-long competition where creations will be showcased at UH on first month of December |
+| November 8 & 9 | Code Day Houston | [START Houston](https://www.google.com/maps/place/1121%20Delano%20St%2C%20Houston%20TX%2077003%2C%20US) | [Get tickets](https://codeday.org/houston), [Facebook event](https://www.facebook.com/events/715708395170645/) |
+| November 13 | Mo’Code Movember Checkpoint | UH |  1st checkpoint |
+| November 13 to 14 | Hacktoberfest | [START Houston](https://www.google.com/maps/place/1121%20Delano%20St%2C%20Houston%20TX%2077003%2C%20US) | [RSVP here](http://hacktoberfe.st/)
+| November 20 | Mo’Code Movember Checkpoint | UH | 2nd checkpoint |
+| November 21 to 23 | 3 Day Startup | UH | [Apply by October 28TH!](http://uofhouston.3daystartup.org/) |
+| November 27 to 28 | Thanksgiving Holiday | Your place |  Show your family the awesome thing(s) you created and add those finishing touches! |
+| December 5 | Mo’Code Movember Showcase | UH | Show your colleagues the awesome thing(s) you created! |
+
+
+
 ## Rules
 
 1. Code must be in publicly visible repositories on GitHub. If you want to
