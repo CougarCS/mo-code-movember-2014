@@ -50,43 +50,43 @@
 
 ## Judging:
 
-- The Writer: best commit messages, documentation, blogging, etc.
+### The Writer: best commit messages, documentation, blogging, etc.
 
   The Writer tells you why they are doing things, not just what they are doing.
 
-- The Engineer: best use of reusable components.
+### The Engineer: best use of reusable components.
 
   The Engineer doesn't reinvent the wheel. Instead, the Engineer stands on the
   shoulders of giants.
 
-- The Mechanic: best use of hardware hacking. If you're interfacing over
+### The Mechanic: best use of hardware hacking. If you're interfacing over
   serial, bit banging, or spinning servos, you are in the running for this.
 
   The Mechanic isn't afraid to get their hands dirty and solder some circuits.
 
-- The Invigilator: best use of tests.
+### The Invigilator: best use of tests.
 
   The Invigilator is no-nonsense when it comes to code coverage. Positive
   tests, negative tests, data driven, test-first: the Invigilator does them
   all.
   
-- The Bicycle Repair Man: patches to FOSS code.
+### The Bicycle Repair Man: patches to FOSS code.
 
   The Bicycle Repair Man is an FOSS hero that sends well-tested patches
   to FOSS projects. These projects can even be ones that are
 
-- The Community Leader: greases the cogs of FOSS.
+### The Community Leader: greases the cogs of FOSS.
 
   The Community Leader encourages others to improve their code, suggests other
   ways to program, provides support to new developers and users, etc.
 
-- The Rockstar: devops automation
+### The Rockstar: devops automation
 
   The Rockstar makes sure that projects have a good ecosystem to work in. This
   includes build automation, continuous integration, automated installation,
   virtual machines, etc.
 
-- The Polyglot: speaks many languages
+### The Polyglot: speaks many languages
 
   The Polyglot doesn't care which language they are using as long as it gets
   the job done.
