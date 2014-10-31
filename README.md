@@ -2,6 +2,7 @@
 
 - Overview: <http://pjdecarlo.com/2014/10/mo-code-movember-a-month-of-code-happening-in-houston.html>
 - Facebook event: <https://www.facebook.com/events/1534577913444543/>
+- Please fill out the form here <http://bit.ly/MoCode2014Form> so that we know who will be participating.
 
 ## Calendar of events
 
