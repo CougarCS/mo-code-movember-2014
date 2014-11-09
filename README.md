@@ -4,6 +4,12 @@
 - Facebook event: <https://www.facebook.com/events/1534577913444543/>
 - Please fill out the form here <http://bit.ly/MoCode2014Form> so that we know who will be participating.
 
+## How to participate and share what you're working on
+
+Please post an issue on the Mo' Code Movember repo with your username as the
+title. Whenever you have updates on what you are working on, you can post
+comments on your issue (and @tag the people you are working with).
+
 ## Calendar of events
 
 | Dates | Name | Location | Description |
