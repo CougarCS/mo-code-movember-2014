@@ -25,6 +25,18 @@ comments on your issue (and @tag the people you are working with).
 | November 27 to 28 | Thanksgiving Holiday | Your place |  Show your family the awesome thing(s) you created and add those finishing touches! |
 | December 5 | Mo’Code Movember Showcase | UH | Show your colleagues the awesome thing(s) you created! |
 
+## Mo'tivation
+
+Mo' Code Movember is Mo' than a just an event, it's a Mo'de of operation. It's
+doing Mo' than the minimum and making the Mo'st of your passion for technology.
+Make a Mo'tion to attempt something challenging and learn something new this
+Mo'vember. Enjoy this Mo'tivator from the legendary Bruce Lee!
+
+!["Knowing is not enough. We must apply. Willing is not enough. We must do" — Bruce Lee](http://i.imgur.com/K08BXu1.jpg)
+
+
+
+
 
 
 ## Rules
