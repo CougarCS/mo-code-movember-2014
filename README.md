@@ -32,7 +32,7 @@ comments on your issue (and @tag the people you are working with).
 | ----- | ---- | -------- | ----------- |
 | October 11 to December 12 | International Women’s Hackathon | everywhere | http://iwhphx2014.challengepost.com/ |
 | November 2 | Richard Stallman talk | UH, [SEC 100](http://www.uh.edu/infotech/php/classrooms.php?class_id=165) | Richard Stallman (rms) is giving a talk at the University of Houston. You can RSVP at the [Free Software Foundation](http://www.fsf.org/events/rms-20141102-houston). [More information](http://bit.ly/uhrms2014) |
-| November 7                | University of Houston Mo’Code Movember Kickoff | UH ([PGH](http://www.uh.edu/campus_map/buildings/PGH.html) 563 9 AM - 7 PM) | A Github hosted month-long competition where creations will be showcased at UH on first month of December |
+| November 7                | University of Houston Mo’Code Movember Kickoff | UH ([PGH](http://www.uh.edu/campus_map/buildings/PGH.html) 563 9 AM - 7 PM) | A Github hosted month-long competition where creations will be showcased at UH on the first week of December |
 | November 8 & 9 | Code Day Houston | [START Houston](https://www.google.com/maps/place/1121%20Delano%20St%2C%20Houston%20TX%2077003%2C%20US) | [Get tickets](https://codeday.org/houston), [Facebook event](https://www.facebook.com/events/715708395170645/) |
 | November 13 | Mo’Code Movember Checkpoint | UH ([PGH](http://www.uh.edu/campus_map/buildings/PGH.html) 563 9 AM - 8 PM )|  1st checkpoint |
 | November 13 to 14 | Hacktoberfest | [START Houston](https://www.google.com/maps/place/1121%20Delano%20St%2C%20Houston%20TX%2077003%2C%20US) | [RSVP here](http://hacktoberfe.st/)
