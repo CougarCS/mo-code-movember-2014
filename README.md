@@ -14,6 +14,12 @@
 | [Geoff Acheson](https://github.com/gacheson) | [Arduino Reference](https://github.com/gacheson/arduino-reference) | Engineer |
 
 
+Thanks to our judges [Paul DeCarlo](https://github.com/toolboc) from Microsoft
+and [Devlin Liles](https://github.com/DevlinLiles) from Improving Enterprises!
+
+A big thank you to the International Women's Hackathon and Microsoft for
+sponsoring so many great prizes!
+
 ## Info
 
 - Overview: <http://pjdecarlo.com/2014/10/mo-code-movember-a-month-of-code-happening-in-houston.html>
