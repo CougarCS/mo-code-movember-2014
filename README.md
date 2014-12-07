@@ -1,5 +1,21 @@
 # Mo' Code Movember
 
+## Winners!
+
+
+| Name | App | Award |
+| ---- | --- | ----- |
+| [Connor Clark](https://github.com/Hoten) | [Gridia](https://github.com/Hoten/Gridia) | Rockstar |
+| [Maria Briceno](https://github.com/mafer09) | [Fuder](https://github.com/mafer09/Fuder/wiki) | Polyglot |
+| [Zaki Mughal](https://github.com/zmughal) | [R in Perl](https://github.com/zmughal/embedding-r-in-perl-experiment) / [Patch](https://github.com/zmughal/p5-Metaweb) / [Kinect Medical Imaging](https://github.com/zmughal/cosc-4372-6370-kinect-medical-imaging) | Bicycle Repair Man |
+| [Tobin Thomas](https://github.com/zing321) | [QuadCopter](https://github.com/CougarCS/mo-code-movember-2014/issues/12) | Mechanic |
+| [Carlos Salazar](https://github.com/batosi175) | [LifeAlert](https://github.com/batosi175/Google_Voice_life_alert) | Mechanic |
+| [Jim Battelli](https://github.com/jbatman) | [Arduino Reference](https://github.com/gacheson/arduino-reference) | Writer |
+| [Geoff Acheson](https://github.com/gacheson) | [Arduino Reference](https://github.com/gacheson/arduino-reference) | Engineer |
+
+
+## Info
+
 - Overview: <http://pjdecarlo.com/2014/10/mo-code-movember-a-month-of-code-happening-in-houston.html>
 - Facebook event: <https://www.facebook.com/events/1534577913444543/>
 - Please fill out the form here <http://bit.ly/MoCode2014Form> so that we know who will be participating.
